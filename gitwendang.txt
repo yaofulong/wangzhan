@@ -1,0 +1,6 @@
+1.git init//初始化库
+2.git add +文件名  //添加到站存区
+3.git commit -m "记录填写" +文件名 //提交到本地库
+4.git remote -v  //查看所有别名给Https来自远程库的github起别名
+5.git remote add 别名 https://github.com/yaofulong/wangzhan.git//给远程库起别名
+6.git push 别名 master//提交本地库的分支到远程库
