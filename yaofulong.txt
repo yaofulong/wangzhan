@@ -1,0 +1,37 @@
+1.PR,AE常用模板下载
+	https://www.cgown.com/edit/premiere
+2.Socket NET
+	https://docs.microsoft.com/zh-cn/dotnet/api/system.net.sockets.socket?view=netframework-4.8
+3.Hash编码
+	http://keir.net/software.html
+4.windows下安装和配置多个版本的JDK
+	https://jingyan.baidu.com/article/47a29f2474ba55c015239957.html
+5.中国unity
+	https://www.unity.cn/download/editor
+6.书法鉴赏的答案
+	https://wenku.baidu.com/view/a3544a3aa66e58fafab069dc5022aaea998f4181.html
+7.数学思维方式与创新答案
+	https://wenku.baidu.com/view/8c7bdeb77e21af45b207a819.html?sxts=1582534373132
+8.3D溜溜库
+	https://zixue.3d66.com/popsoft_201.html
+9.JQuery各版本下载
+	https://code.jquery.com/jquery/#jquery-all-1.x
+10Animcraft国产动画软件
+	http://www.animcraft.com/
+11.在线做动作
+	https://www.mixamo.com/#/
+12内网穿透
+	https://www.natfrp.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
