@@ -4,3 +4,4 @@
 4.git remote -v  //查看所有别名给Https来自远程库的github起别名
 5.git remote add 别名 https://github.com/yaofulong/wangzhan.git//给远程库起别名
 6.git push 别名 master//提交本地库的分支到远程库
+7.git clone 远程地址//从github上克隆文件
